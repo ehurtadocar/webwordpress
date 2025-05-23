@@ -21,8 +21,11 @@
     <li><strong>Función de búsqueda:</strong> Implementada en la barra lateral con <em>SearchWP Live Ajax Search</em>.</li>
     ![Screenshot 2025-05-24 011415](https://github.com/user-attachments/assets/2a171d40-6598-4020-bc51-6dbbf843166c)
     <li><strong>Menú de navegación:</strong> Configurado con enlaces a páginas estáticas y categorías del blog.</li>
+    ![Screenshot 2025-05-24 012045](https://github.com/user-attachments/assets/0a3e6778-15fd-45f6-88f3-9e45b485fb91)
     <li><strong>Página de inicio personalizada:</strong> Incluye presentación con eslogan “La magia de la tecnología” y botón de acceso directo a los artículos.</li>
+    ![Screenshot 2025-05-24 010950](https://github.com/user-attachments/assets/4629bed3-2687-4197-95db-f7aa136f96a0)
     <li><strong>Página de contacto funcional:</strong> Con formulario de contacto mediante <em>Contact Form 7</em> y mapa interactivo de Google Maps incrustado.</li>
+    ![Screenshot 2025-05-24 012519](https://github.com/user-attachments/assets/65bcc819-a0f3-4f17-abca-0d49549399a0)
     <li><strong>Páginas personalizadas:</strong> “Sobre nosotros”, “Proyectos” y “Servicios”, redactadas en HTML con estructura clara.</li>
     <li><strong>Gestión de usuarios:</strong> Creación y prueba de roles: administrador, editor, colaborador y suscriptor. Se ha verificado que cada uno cumple su función correctamente.</li>
     <li><strong>Diseño personalizado:</strong> Uso del tema <em>Astra</em>, modificado completamente con personalización visual, cambio de fuentes, colores, disposición de cabecera y pie de página.</li>
