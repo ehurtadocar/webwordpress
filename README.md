@@ -20,7 +20,6 @@
     <li><strong>Página de contacto funcional:</strong> Con formulario de contacto mediante <em>Contact Form 7</em> y mapa interactivo de Google Maps incrustado.</li>
     <li><strong>Páginas personalizadas:</strong> “Sobre nosotros”, “Proyectos” y “Servicios”, redactadas en HTML con estructura clara.</li>
     <li><strong>Gestión de usuarios:</strong> Creación y prueba de roles: administrador, editor, colaborador y suscriptor. Se ha verificado que cada uno cumple su función correctamente.</li>
-    <li><strong>Multilingüismo:</strong> Añadido con <em>Polylang</em>, permitiendo al visitante cambiar entre español e inglés desde el menú.</li>
     <li><strong>Diseño personalizado:</strong> Uso del tema <em>Astra</em>, modificado completamente con personalización visual, cambio de fuentes, colores, disposición de cabecera y pie de página.</li>
     <li><strong>CSS adicional:</strong> Estilo propio implementado para reforzar la identidad tecnológica, incluyendo botones, encabezados, enlaces y fondo adaptado.</li>
   </ul>
