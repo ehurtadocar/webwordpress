@@ -3,6 +3,7 @@
 <article style="max-width: 900px; margin: 0 auto; padding: 40px; font-family: Arial, sans-serif; color: #ffffff; background-color: #1a1a3d; border-radius: 10px; line-height: 1.8;">
   
   <h1 style="color: #00ffe7; text-align: center;">Resumen del proyecto: <span style="color: #ffffff;">Hextech</span></h1>
+![Screenshot 2025-05-24 010950](https://github.com/user-attachments/assets/e88e0547-3bf3-4516-8d60-1e82bd153efb)
 
   <h2 style="color: #ff00ff;">📘 Descripción del proyecto</h2>
   <p>
