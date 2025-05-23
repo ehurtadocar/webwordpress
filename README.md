@@ -13,9 +13,13 @@
   <h2 style="color: #ff00ff;">🛠️ Funcionalidades implementadas</h2>
   <ul>
     <li><strong>Entradas del blog:</strong> Se han creado tres entradas estructuradas, con imágenes, código HTML, y una de ellas programada para publicación futura. Otra incluye desactivación de comentarios.</li>
+    ![Screenshot 2025-05-24 011132](https://github.com/user-attachments/assets/13ec4f56-e6fd-4d93-a504-f0854b7a4fe9)
     <li><strong>Categorías y subcategorías:</strong> Organización temática del contenido mediante categorías como “Videojuegos” y “Tecnología”, con subcategoría “Análisis”.</li>
+    ![Screenshot 2025-05-24 011221](https://github.com/user-attachments/assets/25bef1ab-1b4c-4c98-8684-0693e8165a9d)
     <li><strong>Visualización de RSS externo:</strong> Integración de un feed de noticias externas con <em>WP RSS Aggregator</em>.</li>
+    ![Screenshot 2025-05-24 011319](https://github.com/user-attachments/assets/a4f5b8c1-c7af-4cf5-ba19-4bf01e5a7095)
     <li><strong>Función de búsqueda:</strong> Implementada en la barra lateral con <em>SearchWP Live Ajax Search</em>.</li>
+    ![Screenshot 2025-05-24 011415](https://github.com/user-attachments/assets/2a171d40-6598-4020-bc51-6dbbf843166c)
     <li><strong>Menú de navegación:</strong> Configurado con enlaces a páginas estáticas y categorías del blog.</li>
     <li><strong>Página de inicio personalizada:</strong> Incluye presentación con eslogan “La magia de la tecnología” y botón de acceso directo a los artículos.</li>
     <li><strong>Página de contacto funcional:</strong> Con formulario de contacto mediante <em>Contact Form 7</em> y mapa interactivo de Google Maps incrustado.</li>
